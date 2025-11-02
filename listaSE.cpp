@@ -28,6 +28,7 @@ bool eliminar(NListaSE* lista, int dato){
         anterior = actual;
         actual = actual -> link;
     }
+    
 }
 
 int main() {
